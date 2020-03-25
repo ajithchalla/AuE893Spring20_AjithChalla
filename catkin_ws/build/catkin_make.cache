@@ -1,0 +1,2 @@
+assignment4_obstacleavoidance
+-DCATKIN_DEVEL_PREFIX=/home/ajithc/AuE893Spring20_AjithChalla/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ajithc/AuE893Spring20_AjithChalla/catkin_ws/install -G Unix Makefiles
